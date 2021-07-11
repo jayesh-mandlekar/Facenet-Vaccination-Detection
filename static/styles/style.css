@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+body{
+  background-color: #0e2cf0;
+  font-family: 'Varela Round', sans-serif;
+}
+nav{
+  font-size: 32px;
+}
+a{
+  color: white;
+}
+.jumbotron{
+  background-color: inherit;
+  text-align: center;
+}
+.btn{
+  color: black;
+}
+.btn-primary{
+  background-color: #f0b00e;
+  border: 0px;
+}
+.btn-secondary{
+  background-color: #f03f0e;
+  border: 0px;
+}
+img{
+  margin: 10px;
+}
